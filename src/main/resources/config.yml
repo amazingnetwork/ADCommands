@@ -1,0 +1,9 @@
+## [ADCommands] - AllowDenyCommands
+## Comando no jogo -> /adc
+
+## Define se os comandos adicionados na lista de comandos, vão ser permitidos ou bloqueados no servidor
+## Use 'allow' para permitir ou 'deny' para negar
+allowordeny: 'allow'
+
+## Mostrar a mensagem de comando não encontrado no chat. Para alterar esta mensagem, altere a propriedade <commandnotfound> no arquivo messages.yml
+showmessage: true

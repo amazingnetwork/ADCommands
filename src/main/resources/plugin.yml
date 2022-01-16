@@ -1,0 +1,7 @@
+name: ADCommands
+author: NatanFoleto
+main: me.natanfoleto.adcommands.Main
+version: 1.0
+commands:
+  adcommands:
+    aliases: [adc]

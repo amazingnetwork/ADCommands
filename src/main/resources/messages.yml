@@ -1,0 +1,23 @@
+## Mensagens configuraveis do plugin
+## Em caso de apagar algo importante das configurações, apague a pasta do plugin e inicie o server novamente
+
+messagehelp:
+  - ""
+  - "§6ADCommands v1.0"
+  - "§7Provided by §6Natan Foleto"
+  - ""
+  - "§6/adc help §7Lista os comandos do plugin"
+  - "§6/adc list §7Lista todos os comandos da lista"
+  - "§6/adc add §7Adiciona um comando a lista"
+  - "§6/adc remove §7Remove um comando da lista"
+  - "§6/adc removeall §7Limpa a lista de comandos adicionados"
+  - "§6/adc reload §7Recarrega as configurações do plugin"
+  - ""
+missingarguments: "§6[ADCommands] §7Uso correto: §6/adc (add|remove) §7<command>"
+emptylist: "§6[ADCommands] §7Nenhum comando foi adicionado na lista ainda."
+added: "§6[ADCommands] §7Comando adicionado com sucesso."
+removed: "§6[ADCommands] §7Comando removido com sucesso."
+commandnotfound: "§6[ADCommands] §7O comando §6%command% §7não foi encontrado."
+removedall: "§6[ADCommands] §7Todos os comandos foram removidos com sucesso."
+nopermission: "§6[ADCommands] §7Você não tem permissão pra usar este comando."
+pluginreloaded: "§6[ADCommands] §7Plugin recarregado com sucesso."
